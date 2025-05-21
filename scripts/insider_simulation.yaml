@@ -1,0 +1,6 @@
+name: Simulation Insider Réseau
+steps:
+  - type: scan
+  - type: acl
+    user: user1
+  - type: noise
